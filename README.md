@@ -57,6 +57,3 @@ pip3 install requests
 python3 adbnet.py o python adbnet.py o py adbnet.py
 
 CONSEJO: Para quienes son nuevos en esto, si tienen problemas para instalar un módulo de Python, simplemente hagan lo siguiente: pip3 install <modulename>
-# Capturas de pantalla
-![imagen](https://user-images.githubusercontent.com/86132648/124667060-e2f5c280-de7c-11eb-8f69-2443aa7a7bd3.png)
-![imagen](https://user-images.githubusercontent.com/86132648/124667104-f30da200-de7c-11eb-9da3-098fa211a910.png)
