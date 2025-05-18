@@ -11,7 +11,7 @@ Una herramienta que permite buscar dispositivos Android vulnerables en todo el m
 <img src="https://img.shields.io/badge/Version-1.0.0-7DCDE3?style=for-the-badge" alt="Version">
 </p>
 
-#Características
+# Características
 ```
 Características:
 - Módulos de post-explotación para controlar y manipular el dispositivo al que estás conectado. - Escáneres para buscar dispositivos Android vulnerables en todo el mundo y explotarlos.
