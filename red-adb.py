@@ -19,7 +19,7 @@ api_secret = "" # Add your Censys API Secret Key here
 
 # AdbNet
 # Date: 07/06/21
-# Author: https://github.com/0x1CA3
+# Author: undefined_name
 
 
 cur = datetime.now()
@@ -68,7 +68,7 @@ class other():
             {Fore.RED} ▄▄▄      ▓█████▄  ▄▄▄▄       ███▄    █ ▓█████▄▄▄█████▓    {Fore.GREEN}[+] Logged in as: {computer_name}
             {Fore.RED}▒████▄    ▒██▀ ██▌▓█████▄     ██ ▀█   █ ▓█   ▀▓  ██▒ ▓▒    {Fore.GREEN}[+] Devices available:{cleanr}
             {Fore.RED}▒██  ▀█▄  ░██   █▌▒██▒ ▄██   ▓██  ▀█ ██▒▒███  ▒ ▓██░ ▒░    {Fore.GREEN}[+] Time: {current_time}
-            {Fore.RED}░██▄▄▄▄██ ░▓█▄   ▌▒██░█▀     ▓██▒  ▐▌██▒▒▓█  ▄░ ▓██▓ ░     {Fore.GREEN}[+] Made by: https://github.com/0x1CA3
+            {Fore.RED}░██▄▄▄▄██ ░▓█▄   ▌▒██░█▀     ▓██▒  ▐▌██▒▒▓█  ▄░ ▓██▓ ░     {Fore.GREEN}[+] Made by: undefined_name
             {Fore.RED} ▓█   ▓██▒░▒████▓ ░▓█  ▀█▓   ▒██░   ▓██░░▒████▒ ▒██▒ ░     {Fore.GREEN}[+] The most common ports are 5555 and 4444!
             {Fore.RED} ▒▒   ▓▒█░ ▒▒▓  ▒ ░▒▓███▀▒   ░ ▒░   ▒ ▒ ░░ ▒░ ░ ▒ ░░       {Fore.GREEN}[+] Use 'help' or '?' for commands!
             {Fore.RED}  ▒   ▒▒ ░ ░ ▒  ▒ ▒░▒   ░    ░ ░░   ░ ▒░ ░ ░  ░   ░    
