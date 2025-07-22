@@ -17,7 +17,7 @@ api_id = "" # Add your Censys API ID here
 api_secret = "" # Add your Censys API Secret Key here
 
 
-# AdbNet
+# red-adb
 # Date: 07/06/21
 # Author: undefined_name
 
