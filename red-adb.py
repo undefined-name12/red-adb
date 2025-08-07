@@ -12,14 +12,13 @@ except:
     print("[-] Error! Make sure you install the required modules!")
 
 
-shodan_key = "" # Add your Shodan API Key here
-api_id = "" # Add your Censys API ID here
-api_secret = "" # Add your Censys API Secret Key here
+shodan_key = "" # Agregue su clave API de Shodan aquí
+api_id = "" # Agregue su ID de API de Censys aquí
+api_secret = "" # Agregue su clave secreta de API de Censys aquí
 
 
 # red-adb
-# Date: 07/06/21
-# Author: undefined_name
+# Autor: undefined_name
 
 
 cur = datetime.now()
