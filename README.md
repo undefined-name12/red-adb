@@ -1,5 +1,4 @@
 <h1 align="center">
-<img src="https://image.flaticon.com/icons/png/512/160/160138.png" width="150px"><br>
 adb: una herramienta de explotación para dispositivos Android.
 </h1>
 <p align="center">
